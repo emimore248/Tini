@@ -1,0 +1,6 @@
+{
+  "name": "Asistente Virtual Especializado - TINI Dossier",
+  "description": "Asistente virtual especializado y estricto para consultas documentales basadas de manera exclusiva y rigurosa en la documentación oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
